@@ -12,12 +12,10 @@ I care about platforms that are secure by design, automated end to end, and chea
 
 Databricks Certified Data Engineer Professional · Microsoft Certified: Fabric Data Engineer Associate (DP-700)
 
-**Featured project**
-
-🏗️ **[finance-data-platform](https://github.com/Baptistedemuy/finance-data-platform)**: end-to-end lakehouse on Azure + Databricks for public financial data. It covers Terraform, Unity Catalog, data contracts, CI/CD with OIDC and an AI sentiment layer. Every design choice is documented as an ADR. *(work in progress)*
+**Featured projects**
 
 📈 **[MyPortfolioAgent](https://github.com/Baptistedemuy/MyPortfolioAgent)**: data pipeline + LLM to analyse a stock portfolio (prices, analyst ratings, sentiment, Streamlit dashboard).
 
 **Contact**
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[LinkedIn](https://www.linkedin.com/in/baptiste-demuysere/)
