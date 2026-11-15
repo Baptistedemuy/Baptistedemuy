@@ -1,6 +1,6 @@
-### Hi, I'm Baptiste 👋
+### Hi, I'm Baptiste 
 
-Senior Data Engineer based in Geneva, relocating to Zurich, building data platforms on **Azure** and **Databricks** for the financial sector (private banking, insurance). Former Tech Lead of a team of 5.
+Senior Data Engineer based in Geneva, building data platforms on **Azure** and **Databricks** for the financial sector (private banking, insurance). Former Tech Lead of a team of 5.
 
 I care about platforms that are secure by design, automated end to end, and cheap to run.
 
